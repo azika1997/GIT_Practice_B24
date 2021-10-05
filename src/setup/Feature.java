@@ -7,4 +7,6 @@ public class Feature {
 
     // then we are merging
     //We created a new branch
+
+    // now we will merge all of them and save
 }
